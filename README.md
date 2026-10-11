@@ -136,7 +136,7 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 
 ## 👨‍💻 Author
 
-**Niladwaj**
+**Niladwaj Datta**
 🔗 [GitHub](https://github.com/niladwaj-datta) · [LinkedIn](https://linkedin.com/in/niladwaj-datta-7ab262316)
 
 <div align="center">
