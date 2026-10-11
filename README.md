@@ -141,6 +141,6 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 
 <div align="center">
 
-⭐ **If Convertix saved you a Google search, drop a star!** ⭐
+
 
 </div>
